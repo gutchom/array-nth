@@ -1,6 +1,6 @@
 {
   "name": "array-nth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reversible index with a negative value.",
   "main": "index.js",
   "typings": "index.d.ts",
