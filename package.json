@@ -1,0 +1,24 @@
+{
+  "name": "array-nth",
+  "version": "1.0.0",
+  "description": "Reversible index with a negative value.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "gutchom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutchom/array-nth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gutchom/array-nth/issues"
+  },
+  "homepage": "https://github.com/gutchom/array-nth#readme",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}
